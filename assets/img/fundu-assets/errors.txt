@@ -1,0 +1,6 @@
+[Fri Nov 11 2022 18:09:22 GMT+0600 (Bangladesh Standard Time)] layer "+(880)  ": Expected Either a default asset specification or a layer asset specification but "+" found.
+[Fri Nov 11 2022 18:09:22 GMT+0600 (Bangladesh Standard Time)] layer "  get in touch       info@example.com": Unsupported extension: com
+[Fri Nov 11 2022 18:09:22 GMT+0600 (Bangladesh Standard Time)] layer "+": Expected Either a default asset specification or a layer asset specification but "+" found.
+[Fri Nov 11 2022 18:09:22 GMT+0600 (Bangladesh Standard Time)] layer "+": Expected Either a default asset specification or a layer asset specification but "+" found.
+[Fri Nov 11 2022 18:09:22 GMT+0600 (Bangladesh Standard Time)] layer "+": Expected Either a default asset specification or a layer asset specification but "+" found.
+[Fri Nov 11 2022 18:09:22 GMT+0600 (Bangladesh Standard Time)] layer "+": Expected Either a default asset specification or a layer asset specification but "+" found.
