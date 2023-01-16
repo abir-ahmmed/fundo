@@ -1,0 +1,148 @@
+/* laptop :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+    
+    
+}
+
+
+/* Normal desktop :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+
+.header-info ul li {
+        margin-right: 15px;
+}
+.main-menu ul li {
+        margin-left: 16px;
+}
+.back-text {
+        font-size: 200px;
+}
+.back-title{
+        font-size: 80px;
+}
+.section-title h2{
+        font-size: 35px;
+}    
+.event-img img {
+    width: 100%;
+}
+.s-back-title {
+        top: -40px;
+	font-size: 150px;
+}
+.event-box-img img{
+        width: 100%;
+}
+.single-fact h1 {
+        font-size: 55px;
+}
+.col-xl-3.col-lg-5.pl-30.mb-50 {
+        padding-left: 0;
+}
+
+
+}
+
+ 
+/* Tablet desktop :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+.footer-widget.pl-30.mb-50{
+        padding-left: 0;
+}
+.header-info ul li.header-info-last{
+        display: none;
+}
+.logo,.header-btn{
+        margin-top: 5px;
+}
+.back-text{
+        font-size: 150px;
+}
+
+.hero-wrapper,.back-text {
+        margin-top: 170px;
+      }
+.hero-wrapper h2{
+        font-size: 60px;
+}
+.hero-area{
+        min-height: 800px;
+}
+.section-title h2 {
+        font-size: 50px;
+      }
+.s-back-title {
+        font-size: 120px;
+      }
+.event-box-img img{
+        width: 100%;
+}
+.event-img img{
+        width: 100%;
+}
+.single-fact{
+        margin-bottom: 30px;
+}
+.single-fact h1 {
+        font-size: 55px;
+    }
+}
+
+ 
+/* small mobile :320px. */
+@media (max-width: 767px) {
+.menu-box{
+        padding-top: 15px;
+}
+
+.hero-wrapper,.back-text {
+        margin-top: 170px;
+      }
+.hero-wrapper h2{
+        font-size: 44px;
+}
+.hero-wrapper h2 br {
+        display: none;
+}
+.hero-area{
+        min-height: 700px;
+}
+.back-text{
+        font-size: 90px;
+        padding-top: 80px;
+        margin-left: 19px;
+}
+.section-title h2 {
+        font-size: 38px;
+    }
+.section-title h2 br{
+        display: none;
+    }
+    .s-back-title{
+        font-size: 85px;
+    }    
+.back-title{
+	font-size: 70px;}
+.event-box-img img{
+        width: 100%;
+}
+.event-img img{
+        width: 100%;
+}
+.up-date{
+        width: 100%;
+        float: none;
+        margin-bottom: 20px;
+}
+.single-fact{
+        padding: 40px 0;
+        border: 0;
+}
+
+}
+ 
+/* Large Mobile :480px. */
+@media only screen and (min-width: 550px) and (max-width: 767px) {
+.container {width:450px}
+ 
+}
