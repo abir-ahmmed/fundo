@@ -12,7 +12,7 @@
         margin-right: 15px;
 }
 .main-menu ul li {
-        margin-left: 16px;
+        margin-left: 25px;
 }
 .back-text {
         font-size: 200px;
@@ -25,6 +25,9 @@
 }    
 .event-img img {
     width: 100%;
+}
+.back-text{
+	font-size: 240px;
 }
 .s-back-title {
         top: -40px;
