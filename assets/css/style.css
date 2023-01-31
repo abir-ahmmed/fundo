@@ -714,7 +714,8 @@ position: absolute;
     top: 20px;
     right: 30px;
     font-size: 17px;
-	font-family: "Font Awesome 5 Pro";
+	font-family: "Font Awesome 5 free";
+    font-weight: 900;
 }
 .contact-input input {
     width: 100%;
